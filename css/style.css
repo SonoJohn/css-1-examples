@@ -1,0 +1,28 @@
+#main-title {
+    color: rgb(125, 18, 196);
+}
+
+/* h2 {
+    color: blue;
+} */
+
+.blue-title {
+    color: blue;
+}
+
+.pink-title {
+    color: chocolate;
+}
+
+.large-title {
+    font-size: 30px;
+}
+
+.light-section {
+    background-color: aquamarine;
+}
+
+.main-header {
+    height: 200px;
+    background-image: url(../img/BnHA\ Villain\ vs\ Hero.jpg);
+}
