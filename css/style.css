@@ -25,4 +25,18 @@
 .main-header {
     height: 200px;
     background-image: url(../img/BnHA\ Villain\ vs\ Hero.jpg);
+    background-size: 50%;
+    background-repeat: no-repeat;
+}
+
+.square {
+    width: 150px;
+    height: 150px;
+    background-color: crimson;
+}
+
+.border {
+    border-width: 3px;
+    border-style: solid;
+    border-color: cadetblue;
 }
